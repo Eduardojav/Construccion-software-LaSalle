@@ -1,2 +1,2 @@
-# Construccion-software-LaSalle Ya toy Jord
+# Construccion-software-LaSalle
 Grupo1
